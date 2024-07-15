@@ -8,7 +8,6 @@ int main(int argc, char *argv[]) {
   }
   std::string MdFile(argv[1]);
   std::string htmlFile(argv[2]);
-  std::string lang(argv[3]);
 
   if (!md2html(MdFile, htmlFile))
     return 1;
