@@ -4,7 +4,7 @@
 
 ### About
 
-md2html is a easy-to-use command-line tool designed to convert Markdown (.md) files into HTML (.html) format. It's a side project i did in order to learn regex in C++
+md2html is a easy-to-use command-line tool designed to convert Markdown (.md) files into HTML (.html) format. It's a side project i did to learn regex in C++
 
 ### Features
 
